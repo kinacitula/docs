@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kinacitula.github.io/docs/faq/kak-vybrat-minitraktor-76437473/</loc>
+    <loc>https://kinacitula.github.io/docs/whitepaper/kak-vybrat-minitraktor-72578de7/</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kinacitula.github.io/docs/faq/kak-vybrat-minitraktor-76437473/kak-vybrat-minitraktor-76437473.pdf</loc>
+    <loc>https://kinacitula.github.io/docs/whitepaper/kak-vybrat-minitraktor-72578de7/kak-vybrat-minitraktor-72578de7.pdf</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -32,6 +32,18 @@
   </url>
   <url>
     <loc>https://kinacitula.github.io/docs/catalog/kak-vybrat-minitraktor-731b1485/kak-vybrat-minitraktor-731b1485.pdf</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kinacitula.github.io/docs/faq/kak-vybrat-minitraktor-76437473/</loc>
+    <lastmod>2026-07-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kinacitula.github.io/docs/faq/kak-vybrat-minitraktor-76437473/kak-vybrat-minitraktor-76437473.pdf</loc>
     <lastmod>2026-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
